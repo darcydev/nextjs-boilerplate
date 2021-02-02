@@ -1,0 +1,15 @@
+{
+	"author": {
+		"name": "Darcy Price",
+		"title": "Developer",
+		"twitterHandle": "@darcydev"
+	},
+	"site": {
+		"siteUrl": "https://darcydev.com",
+		"siteName": "siteName",
+		"siteTitle": "siteTitle",
+		"siteDescription": "siteDescription",
+		"keywords": "keywords",
+		"siteImage": "../public/Logo.png"
+	}
+}
